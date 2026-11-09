@@ -1,8 +1,6 @@
 # Electrical-Simulink-Modelling
 # Simulink Mini Project: Sine Wave and Gain
 
-#Objective
-
  Simulate a 10 Hz sine wave and amplify its amplitude using a Gain block.
 
 # Model Configuration
