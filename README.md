@@ -1,11 +1,11 @@
 # Electrical-Simulink-Modelling
-#Simulink Mini Project: Sine Wave and Gain
+# Simulink Mini Project: Sine Wave and Gain
 
 #Objective
 
  Simulate a 10 Hz sine wave and amplify its amplitude using a Gain block.
 
-#Model Configuration
+# Model Configuration
 
 -Input amplitude: 5 V
 
@@ -15,7 +15,7 @@
 
 -Simulation time: 0.3 second
 
-#Expected Results
+# Expected Results
 
 -Output amplitude: 10 V
 
@@ -23,7 +23,7 @@
 
 -Number of cycles: 3
 
-#Blocks Used
+# Blocks Used
 
 -Sine Wave
 
@@ -31,6 +31,6 @@
 
 -Scope
 
-#Conclusion
+# Conclusion
 
 The simulation demonstrates how a Gain block amplifies an input signal without changing its frequency.
